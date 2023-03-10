@@ -19,7 +19,8 @@
 
 
 		{
-			if (!isdigit(str[count])) /*check if str there are digit*/
+			if
+			(!isdigit(str[count])) /*check if str there are digit*/
 			{
 				return (0);
 			}
